@@ -1,37 +1,10 @@
-## Default values
-Flammability is 0  
-Temperature is 0.5  
-Heat capacity is 0.5  
-Viscosity is 0.5  
-Explosiveness is 0  
-Tier is 0  
-Gives no status effect  
+# Liquids
 
-## Water
-Color is 0x486ACD  
-Heat capacity is 0.4  
-Tier is 0  
-Gives status effect wet  
+Liquids are another core part of Mindustry. They can be used to boost production blocks, as ammo, as an ingredient, and even as a coolant.
 
-## Lava 
-Color is 0xE37341  
-Temperature is 0.8  
-Viscosity is 0.8  
-Tier is 2  
-Gives status effect melting  
-
-## Oil
-Color is 0x313131  
-Viscosity is 0.7  
-Flammability is 0.6  
-Explosiveness is 0.6  
-Heat capacity is 0.7  
-Tier is 1  
-Gives status effect tarred  
-
-## Cryofluid
-Color is 0x87CEEB  
-Heat Capacity is 0.9  
-Temperature is 0.25  
-Tier is 1  
-Gives status effect freezing  
+| Name      | Tier | Heat Cap. | Flammability | Temp. | Viscosity | Explosiveness | Stat. Effect | Color   |
+|-----------|:----:|:---------:|:------------:|:-----:|:---------:|:-------------:|--------------|---------|
+| Water     | 0    | 0.4       |              | 0.5   | 0.5       |               | N/A          | #486acd |
+| Lava      | 2    | 0.5       |              | 0.8   | 0.8       |               | Melting      | #e37341 |
+| Oil       | 1    | 0.7       | 0.6          | 0.5   | 0.7       | 0.6           | Tarred       | #313131 |
+| Cryofluid | 1    | 0.9       |              | 0.25  | 0.5       |               | Freezing     | #87ceeb |
