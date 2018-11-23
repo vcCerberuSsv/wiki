@@ -1,69 +1,18 @@
-## Copper wall
-Health is 240  
+# Defense Blocks
 
-## Large copper wall
-Health is 960  
-Size is 2   
+Defense blocks provide ways to prevent damage to your constructions and base. Some also have special abilities.
 
-## Dense alloy wall
-Health is 330  
-
-## Large dense alloy wall
-Health is 1320  
-Size is 2  
-
-## Thorium wall
-Health is 600  
-
-## Large thorium wall
-Health is 2400  
-Size is 2  
-
-## Phase wall
-Health is 450  
-
-## Large phase wall
-Health is 1800  
-Size is 2  
-
-## Surge wall
-Health is 690  
-
-## Large surge wall
-Health is 2760  
-Size is 2  
-
-## Door
-Health is 300  
-
-## Large door
-Health is 1200  
-Size is 2  
-
-
-TODO: Better projector information
-## Mending projector
-Size is 2  
-Consumes:  
-- 0.2 Power (every third)  
-- Optionally phasematter  
-
-## Overdrive projector
-Size is 2  
-Can't overdrive  
-Consumes:  
-- 0.35 Power (every third)  
-- Optionally phasematter  
-
-## Force projector
-Size is 3  
-Consumes:  
-- 0.2 Power (every third)  
-- Optionally phasematter  
-
-## Shock mine
-Health is 40  
-Damage is 11  
-Self damage is 7  
-Lighting length is 10  
-Creates 5 lighting tendrils  
+| Name | HP   | Size | Build Materials | Special Abilities |
+|------|:----:|:----:|-----------------|-------------------|
+| Copper Wall            | 240  | 1    | 12CP<img src="../../img/cp.png" width=15em/>                                               | N/A
+| Large Copper Wall      | 960  | 2    | 48CP<img src="../../img/cp.png" width=15em/>                                               | N/A
+| Dense Alloy Wall       | 330  | 1    | 12DA<img src="../../img/da.png" width=15em/>                                               | N/A
+| Large Dense Alloy Wall | 1320 | 2    | 48DA<img src="../../img/da.png" width=15em/>                                               | N/A
+| Door                   | 300  | 1    | 12DA<img src="../../img/da.png" width=15em/> 8SI<img src="../../img/si.png" width=15em/>   | Opens and closes
+| Large Door             | 1200 | 2    | 48DA<img src="../../img/da.png" width=15em/> 32SI<img src="../../img/si.png" width=15em/>  | Opens and closes
+| Thorium Wall           | 600  | 1    | 12TH<img src="../../img/th.png" width=15em/>                                               | N/A
+| Large Thorium Wall     | 2400 | 2    | 48TH<img src="../../img/th.png" width=15em/>                                               | N/A
+| Phase Wall             | 450  | 1    | 12PF<img src="../../img/pf.png" width=15em/>                                               | Deflects some bullets
+| Large Phase Wall       | 1800 | 2    | 48PF<img src="../../img/pf.png" width=15em/>                                               | Deflects some bullets
+| Surge Wall             | 690  | 1    | 12SU<img src="../../img/su.png" width=15em/>                                               | Randomly emits electric arc
+| Large Surge Wall       | 2760 | 2    | 48SU<img src="../../img/su.png" width=15em/>                                               | Randomly emits electric arc
