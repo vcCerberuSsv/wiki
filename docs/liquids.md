@@ -4,12 +4,12 @@ Liquids are another core part of Mindustry. They can be used to boost production
 
 | Name                                                  | Tier | Heat Cap. | Flammability | Temp. | Viscosity | Explosiveness | Stat. Effect | Color   |
 |-------------------------------------------------------|:----:|:---------:|:------------:|:-----:|:---------:|:-------------:|--------------|---------|
-| [WA] Water <img width=20em src="../img/water.png">    | 0    | 0.4       |              | 0.5   | 0.5       |               | N/A          | #486acd |
-| [LV] Lava <img width=20em src="../img/lava.png">      | 2    | 0.5       |              | 0.8   | 0.8       |               | Melting      | #e37341 |
-| [OI] Oil <img width=20em src="../img/oil.png">        | 1    | 0.7       | 0.6          | 0.5   | 0.7       | 0.6           | Tarred       | #313131 |
-| [CF] Cryofluid <img width=20em src="../img/cryo.png"> | 1    | 0.9       |              | 0.25  | 0.5       |               | Freezing     | #87ceeb |
+| [WA] Water <img id="spr" src="../img/water.png">    | 0    | 0.4       |              | 0.5   | 0.5       |               | N/A          | #486acd |
+| [LV] Lava <img id="spr" src="../img/lava.png">      | 2    | 0.5       |              | 0.8   | 0.8       |               | Melting      | #e37341 |
+| [OI] Oil <img id="spr" src="../img/oil.png">        | 1    | 0.7       | 0.6          | 0.5   | 0.7       | 0.6           | Tarred       | #313131 |
+| [CF] Cryofluid <img id="spr" src="../img/cryo.png"> | 1    | 0.9       |              | 0.25  | 0.5       |               | Freezing     | #87ceeb |
 
-## Water <img width=25em position=inline src="../img/water.png">
+## Water <img id="ind" src="../img/water.png">
 
 Water is the first liquid in Mindustry. It is dark blue in color and naturally found in bodies of water.
 
