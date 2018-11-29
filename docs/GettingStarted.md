@@ -8,18 +8,18 @@ This is your typical, run-of-the-mill setup process.
 
 ### Desktop
 
-1. Visit the game's [itch.io page](https://anuke.itch.io/mindustry), then download a copy of the game from there. **The latest build is `alpha-59`, which we refer to as Build 59.**
+1. Visit the game's [itch.io page](https://anuke.itch.io/mindustry), then download a copy of the game from there. **The latest build is `alpha-62`, which we refer to as Build 62.**
 2. Once the `.zip` file is downloaded, unzip it. Usually that is just done by opening it like normal. When it's done, navigate to the folder it extracted into.
 3. 
-    1. **For Windows users**, simply open `desktop-release.exe`. Enjoy!
-    2. **For MacOS or Linux users**:
-        1. If you don't already have it installed, install the **Java Runtime Environment** or JRE. [Download it here.](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) *Make sure you download the right executable for your system!*
-        2. Go through the installation process and follow the instructions. 
-        3. Run `desktop-release.jar`. Have fun!
+    1. **Windows**: simply open `desktop-release.exe`.
+    2. **MacOS**: run `Mindustry.app.`
+    3. **Linux**: run `Mindustry`. 
+
+If you have JRE already installed (which is recommended), you can also run `desktop-release.jar` on Windows and Linux.
 
 ### Android
 
-This particular section covers how to install Mindustry's **latest builds** on Android. You might be here because you don't know what sort of Mindustry everyone's talking about on the Discord, or heard of `build 59`. If so, please read on.
+This particular section covers how to install Mindustry's **latest builds** on Android. You might be here because you don't know what sort of Mindustry everyone's talking about on the Discord, or heard of `build 62`. If so, please read on.
 
 1. Open Google Play Store and visit Mindustry's entry.
 2. Scroll down a bit and notice the "Become a beta tester" section. Press "Join now" and confirm. Fully signing up will take a while, so be patient.
@@ -27,7 +27,7 @@ This particular section covers how to install Mindustry's **latest builds** on A
 
 ### iOS
 
-Unfortunately, **iOS only goes up to 3.5 build 40.** The latest builds are not available to download on said platform because of the cost of having it on the App Store. Again, we apologize for the inconvenience.
+The latest released builds are available on Apple TestFlight.
 
 ## For Contributors
 
