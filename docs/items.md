@@ -33,7 +33,17 @@ The beginner's material; the most basic one for the most basic blocks, used as t
 
 **Obtainable with:** All drills, Separator, Centrifuge
 
+### Basic Information
+
 This is the primary material in Mindustry. A lot of blocks are made of it, and it is usually highly abundant. When melted with Lead using a Smelter or Arc Smelter, Dense Alloy is produced, which opens up more possibilities and better blocks. Since it is the primary material, it is also easily mineable by any drill.
+
+### Characteristics 
+
+Copper appears as a brown or bronze colored ore, which looks strangely like a small loaf of bread. It has no special properties.
+
+### History
+
+Copper was added in 4.0 (subject to change) as a replacement for Tungsten.
 
 ## Lead 
 
