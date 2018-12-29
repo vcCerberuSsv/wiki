@@ -9,8 +9,8 @@ Items are one of the integral parts of Mindustry. They can serve as fuel, ammo, 
 * E - Can be obtained from destroying an enemy
 * B - Is used as a building material
 
-| Name | Flags | Cost | Hardness | Radioactivity | Flammability | Explosiveness | Fluxiness | Color |
-|------|-------|:----:|:--------:|:-------------:|:------------:|:-------------:|:---------:|-------|
+| Name | Flags | Cost | Hardness | Rad. | Flam. | Expl. | Flux. | Color |
+|------|-------|:----:|:--------:|:----:|:-----:|:-----:|:-----:|-------|
 | **[ST]** Stone <img id="spr" src="../img/st.png">         | NM                     | 3   | 3 |    |    |    |    | #777777 | 
 | **[SA]** Sand <img id="spr" src="../img/sa.png">          | NM                     | 3   |   |    |    |    | .5 | #e3d39e |
 | **[CP]** Copper <img id="spr" src="../img/cp.png">        | NMBE                   | .6  | 1 |    |    |    |    | #d99d73 |
