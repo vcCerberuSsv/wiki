@@ -1,6 +1,7 @@
 # Items
 
 Items are one of the integral parts of Mindustry. They can serve as fuel, ammo, or building material.
+
 ## Flags 
 
 * N - Naturally generated
@@ -26,9 +27,13 @@ Items are one of the integral parts of Mindustry. They can serve as fuel, ammo, 
 | **[BC]** Blast Compound <img id="spr" src="../img/bc.png">| &nbsp;&nbsp;&nbsp; M   | 3   |   |     | 0.2 | 0.6 |     | #ff795e |
 | **[PY]** Pyratite <img id="spr" src="../img/py.png">      | &nbsp;&nbsp;&nbsp; M   | 3   |   |     | 0.7 | 0.2 |     | #ffaa5f |
 
-## Stone
+## Stone <img id="spr" src="../img/st.png"> 
 
-A material that is common and almost useless. It can be turned to sand and be melted into Lava, though.
+A material that is common at times and *almost* useless. It can be turned to sand and be melted into Lava, though, and can be used by a Separator or Centrifuge to output various different ores. 
+
+**Obtainable with:** Pneumatic Drill, Laser Drill, Airblast Drill, Separator, Centrifuge
+
+Stone is part of the terrain, and is abundant usually in maps that also have sand. Because it is harder than a usual ore, it takes advanced drills, Pneumatic and above, to mine it. Since ores are found in the ground - in rocks and terrain - mined rocks can contain said ores, which can conveniently be extracted using a Separator or Centrifuge. That is especially useful in worlds where ore patches are scarce, while rock is abundant.
 
 ## Sand 
 
