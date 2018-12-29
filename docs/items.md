@@ -27,21 +27,13 @@ Items are one of the integral parts of Mindustry. They can serve as fuel, ammo, 
 | **[BC]** Blast Compound <img id="spr" src="../img/bc.png">| &nbsp;&nbsp;&nbsp; M   | 3   |   |    | .2 | .6 |    | #ff795e |
 | **[PY]** Pyratite <img id="spr" src="../img/py.png">      | &nbsp;&nbsp;&nbsp; M   | 3   |   |    | .7 | .2 |    | #ffaa5f |
 
-## Stone <img id="spr" src="../img/st.png"> 
-
-A material that is common at times and *almost* useless. It can be turned to sand and be melted into Lava, though, and can be used by a Separator or Centrifuge to output various different ores. 
-
-**Obtainable with:** Pneumatic Drill, Laser Drill, Airblast Drill, Separator, Centrifuge
-
-Stone is part of the terrain, and is abundant usually in maps that also have sand. Because it is harder than a usual ore, it takes advanced drills, Pneumatic and above, to mine it. Since ores are found in the ground - in rocks and terrain - mined rocks can contain said ores, which can conveniently be extracted using a Separator or Centrifuge. That is especially useful in worlds where ore patches are scarce, while rock is abundant.
-
-## Sand 
-
-Used to make Silicon, and as flux. Other than that, it's unfortunate you can't throw some towards enemies.
-
-## Copper 
+## Copper <img id="spr" src="../img/cp.png"> 
 
 The beginner's material; the most basic one for the most basic blocks, used as the most basic ammo. When melted with Lead, Dense Alloy is produced. 
+
+**Obtainable with:** All drills, Separator, Centrifuge
+
+This is the primary material in Mindustry. A lot of blocks are made of it, and it is usually highly abundant. When melted with Lead using a Smelter or Arc Smelter, Dense Alloy is produced, which opens up more possibilities and better blocks. Since it is the primary material, it is also easily mineable by any drill.
 
 ## Lead 
 
@@ -50,6 +42,18 @@ A heavy material, though that doesn't matter. When melted with Copper, Dense All
 ## Coal 
 
 The basic fuel. It can be used as fuel by a Combustion Generator to generate power. It is also used by the Smelter as fuel to make Dense Alloy.
+
+## Sand 
+
+Used to make Silicon, and as flux. Other than that, it's unfortunate you can't throw some towards enemies.
+
+## Stone <img id="spr" src="../img/st.png"> 
+
+A material that is common at times and *almost* useless. It can be turned to sand and be melted into Lava, though, and can be used by a Separator or Centrifuge to output various different ores. 
+
+**Obtainable with:** Pneumatic Drill, Laser Drill, Airblast Drill, Separator, Centrifuge
+
+Stone is part of the terrain, and is abundant usually in maps that also have sand. Because it is harder than a usual ore, it takes advanced drills, Pneumatic and above, to mine it. Since ores are found in the ground - in rocks and terrain - mined rocks can contain said ores, which can conveniently be extracted using a Separator or Centrifuge. That is especially useful in worlds where ore patches are scarce, while rock is abundant.
 
 ## Titanium
 
