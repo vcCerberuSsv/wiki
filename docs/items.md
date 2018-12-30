@@ -2,7 +2,7 @@
 
 Items are one of the integral parts of Mindustry. They can serve as fuel, ammo, or building material.
 
-## Flags 
+**Flags:**
 
 * N - Naturally generated
 * M - Man-made, e.g. with a Production or Crafting block
@@ -67,7 +67,7 @@ Waterproof and dense. It appears as a heather or mauve bar, similar to the appea
 
 Lead was added in 4.0.
 
-<br>
+<hr>
 
 ## Coal 
 
