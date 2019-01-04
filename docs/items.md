@@ -49,7 +49,7 @@ Copper was added in 4.0 (subject to change) as a replacement for Tungsten.
 
 <hr>
 
-## Lead 
+## Lead <img id="spr" src="../img/le.png"> 
 
 A heavy, waterproof material. When melted with Copper, Dense Alloy is produced. It is also used as a major ingredient for power-related things.
 
@@ -69,7 +69,7 @@ Lead was added in 4.0.
 
 <hr>
 
-## Coal 
+## Coal <img id="spr" src="../img/co.png"> 
 
 The basic fuel. 
 
