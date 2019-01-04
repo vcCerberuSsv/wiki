@@ -71,7 +71,15 @@ Lead was added in 4.0.
 
 ## Coal 
 
-The basic fuel. It can be used as fuel by a Combustion Generator to generate power. It is also used by the Smelter as fuel to make Dense Alloy.
+The basic fuel. 
+
+**Obtainable with:** All drills, Separator, Centrifuge
+
+### Basic Information
+
+Coal is the first and basic fuel. It fuels fire to generate electricity or to melt lead and copper together. It also is an ingredient in the process of silicon production.
+
+**WARNING:** Because of its high flammability, **avoid putting it into your core or connected vaults!** The instant a fire hits said systems, they will blow one by one like a fuse. **See [Characteristics > Flammability](../characteristics/#flammability-items-liquids) for further information.**
 
 ## Sand 
 
