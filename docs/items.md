@@ -81,6 +81,14 @@ Coal is the first and basic fuel. It fuels fire to generate electricity or to me
 
 **WARNING:** Because of its high flammability, **avoid putting it into your core or connected vaults!** The instant a fire hits said systems, they will blow one by one like a fuse. **See [Characteristics > Flammability](../characteristics/#flammability-items-liquids) for further information.**
 
+### Characteristics
+
+Coal is quite flammable, making it a good fuel. It appears as a black, almost circular stone, just like in real life at times.
+
+### History
+
+Coal has existed since the first release of Mindustry.
+
 ## Sand 
 
 Used to make Silicon, and as flux. Other than that, it's unfortunate you can't throw some towards enemies.
