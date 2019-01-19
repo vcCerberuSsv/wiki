@@ -61,7 +61,7 @@ The second material you encounter, it is one of the fundementals. Dense Alloy ge
 
 ### Characteristics
 
-Waterproof and dense. It appears as a heather or mauve bar, similar to the appearance of [Ube or purple yams](https://panlasangpinoy.com/wp-content/uploads/2015/06/Ube-Halaya-Recipe.jpg?x28997).
+Waterproof and dense. It appears as a heather or mauve bar, similar to the appearance of [Ube or purple yams](https://panlasangpinoy.com/wp-content/uploads/2015/06/Ube-Halaya-Recipe.jpg?x28997). It appears on the ground as an ore of its color.
 
 ### History 
 
@@ -83,7 +83,7 @@ Coal is the first and basic fuel. It fuels fire to generate electricity or to me
 
 ### Characteristics
 
-Coal is quite flammable, making it a good fuel. It appears as a black, almost circular stone, just like in real life at times.
+Coal is quite flammable, making it a good fuel. It appears as a black, almost circular stone, just like in real life at times. It is found as a black ore.
 
 ### History
 
