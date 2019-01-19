@@ -27,7 +27,7 @@ Items are one of the integral parts of Mindustry. They can serve as fuel, ammo, 
 | **[BC]** Blast Compound <img id="spr" src="../img/bc.png">| &nbsp;&nbsp;&nbsp; M   | 3   |   |    | .2 | .6 |    | #ff795e |
 | **[PY]** Pyratite <img id="spr" src="../img/py.png">      | &nbsp;&nbsp;&nbsp; M   | 3   |   |    | .7 | .2 |    | #ffaa5f |
 
-<br>
+<hr>
 
 ## Copper <img id="spr" src="../img/cp.png"> 
 
@@ -89,11 +89,31 @@ Coal is quite flammable, making it a good fuel. It appears as a black, almost ci
 
 Coal has existed since the first release of Mindustry.
 
+<hr>
+
 ## Sand 
 
-Used to make Silicon, and as flux. Other than that, it's unfortunate you can't throw some towards enemies.
+Used to make Silicon, and as flux.
 
-## Stone <img id="spr" src="../img/st.png"> 
+**Obtainable with:** All drills, Separator, Centrifuge
+
+### Basic Information
+
+Sand is the material you need to step up your game. When used strategically with Arc Smelters, they can greatly improve the efficiency of Dense Alloy production, and conserve resources. It also the second ingredient for Silicon.
+
+Strategically speaking, Sand, again, is a must-have. Many players like to have large amounts of sand harvested and stored, usually passively (using passive drills). Therefore, they can have an always-ready supply of flux. 
+
+### Characteristics
+
+Sand is light-yellow colored, and looks like.. well, a pile of sand. It appears on the ground as terrain. 
+
+### History
+
+Sand was added in 4.0.
+
+<hr>
+
+## Stone <img id="spr" src="../img/st.png"> [ DEPRECATED ] 
 
 A material that is common at times and *almost* useless. It can be turned to sand and be melted into Lava, though, and can be used by a Separator or Centrifuge to output various different ores. 
 
