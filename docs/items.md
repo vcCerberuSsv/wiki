@@ -71,7 +71,7 @@ Lead was added in 4.0.
 
 ## Coal <img id="spr" src="../img/co.png"> 
 
-The basic fuel. 
+The basic, reliable fuel. 
 
 **Obtainable with:** All drills, Separator, Centrifuge
 
@@ -105,7 +105,7 @@ Strategically speaking, Sand, again, is a must-have. Many players like to have l
 
 ### Characteristics
 
-Sand is light-yellow colored, and looks like.. well, a pile of sand. It appears on the ground as terrain. 
+Sand is light-yellow colored, and looks like... well, a pile of sand. It appears on the ground as terrain. 
 
 ### History
 
