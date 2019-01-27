@@ -91,7 +91,7 @@ Coal has existed since the first release of Mindustry.
 
 <hr>
 
-## Sand 
+## Sand <img id="spr" src="../img/sa.png">
 
 Used to make Silicon, and as flux.
 
@@ -121,9 +121,25 @@ A material that is common at times and *almost* useless. It can be turned to san
 
 Stone is part of the terrain, and is abundant usually in maps that also have sand. Because it is harder than a usual ore, it takes advanced drills, Pneumatic and above, to mine it. Since ores are found in the ground - in rocks and terrain - mined rocks can contain said ores, which can conveniently be extracted using a Separator or Centrifuge. That is especially useful in worlds where ore patches are scarce, while rock is abundant.
 
-## Titanium
+<hr>
 
-A cool and speedy material. By that I mean it makes items go faster and is an ingredient for a liquid that cools down blocks quicker than water.
+## Titanium <img id="spr" src="../img/ti.png">
+
+A cool and speedy material. 
+
+**Obtainable with:** Pneumatic Drill, Laser Drill, Airblast Drill, Separator, Centrifuge
+
+### Basic Information
+
+Titanium is the next biggest step after Dense Alloy. Upgrade regular Conveyors to Titanium Conveyors to make them faster, and make more advanced blocks and units! Titanium, when mixed with water in a Cryofluid Mixer, produces Cryofluid, a coolant vastly better than water. 
+
+### Characteristics 
+
+This cool blue material can be found as an ore. It is blue, and looks like a blue 'bar', similar to Copper and Lead. 
+
+### History
+
+Titanium was added in 4.0.
 
 ## Thorium
 
