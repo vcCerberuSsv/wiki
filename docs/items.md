@@ -135,15 +135,37 @@ Titanium is the next biggest step after Dense Alloy. Upgrade regular Conveyors t
 
 ### Characteristics 
 
-This cool blue material can be found as an ore. It is blue, and looks like a blue 'bar', similar to Copper and Lead. 
+This cool blue material can be found as an ore. It looks like a blue 'bar', similar to Copper and Lead. 
 
 ### History
 
 Titanium was added in 4.0.
 
-## Thorium
+<hr>
 
-Watch out, this thing is radioactive! When used in a controlled environment such as in a Reactor and cooled, it generates massive amounts of power.
+## Thorium <img id="spr" src="../img/th.png">
+
+A pink, radioactive material. It can be used to generate large amounts of electricity, and as an ammo.
+
+**Obtainable with:** Laser Drill, Airblast Drill, Separator, Centrifuge
+
+### Basic Information
+
+Thorium is an ore that comes fairly late in the game. To first obtain it, a Laser Drill can be used, then an Airblast Drill as soon as possible. It usually naturally appears in fairly large patches on the ground. 
+
+One of the most important uses of Thorium is power generation. The Thorium Reactor is unlocked soon after the ore is obtained, which can be used with it to generate massive amounts of electricity. Careful, though, and make sure that you provide sufficient coolant to the reactor. Later on, after Phase Fabric is obtained, the RTG is unlocked, which is sort of a smaller and safer version of the Thorium Reactor.
+
+[ammo information yet to come]
+
+### Characteristics
+
+Thorium is pink and radioactive. It appears as an ore on the ground. Some say the sprite looks like a heart, and others say it looks like a T (for Thorium). Still others say it resembles bubble gum.
+
+### History
+
+Thorium was added in 4.0, as a replacement to <3.5's Uranium. They and their reactors share many of the same characteristics.
+
+<hr>
 
 ## Dense Alloy 
 
