@@ -15,7 +15,6 @@ Items are one of the integral parts of Mindustry. They can serve as fuel, ammo, 
 | **[LE]** Lead <img id="spr" src="../img/le.png">          | NMBE                   | .9  | 1 |    |    |    |    | #8c7fa9 |
 | **[CO]** Coal <img id="spr" src="../img/co.png">          | NM                     | 3   | 2 |    | .5 | .2 |    | #272727 |
 | **[SA]** Sand <img id="spr" src="../img/sa.png">          | NM                     | 3   |   |    |    |    | .5 | #e3d39e |
-| **[ST]** Stone <img id="spr" src="../img/st.png">         | NM                     | 3   | 3 |    |    |    |    | #777777 | 
 | **[TI]** Titanium <img id="spr" src="../img/ti.png">      | NMB                    | 1.1 | 3 |    |    |    |    | #8da1e3 |
 | **[TH]** Thorium <img id="spr" src="../img/th.png">       | NMB                    | 1.4 | 4 | .5 |    | .1 |    | #f9a3c7 |
 | **[DA]** Dense Alloy <img id="spr" src="../img/da.png">   | &nbsp;&nbsp;&nbsp; MBE | 1.2 |   |    |    |    |    | #b2c6d2 |
