@@ -57,7 +57,7 @@ A heavy, waterproof material. When melted with Copper, Dense Alloy is produced. 
 
 ### Basic Information
 
-The second material you encounter, it is one of the fundementals. Dense Alloy gets its density from the Lead that makes it up. This material has waterproof and electrical properties, making it the basic material for liquid-related blocks like the Conduit, and for power blocks like the Combustion generator.
+The second material you encounter, it is one of the fundamentals. Thus, like Copper, it is mineable by any drill. Dense Alloy gets its density from the Lead that makes it up. This material has waterproof and electrical properties, making it the basic material for liquid-related blocks like the Conduit, and for power blocks like the Combustion generator.
 
 ### Characteristics
 
