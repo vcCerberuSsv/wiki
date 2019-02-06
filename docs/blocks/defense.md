@@ -17,10 +17,18 @@ Defense blocks provide ways to prevent damage to your constructions and base. So
 | Surge Wall<img src="../../img/wall-su.png" id="spr"/>               | 690  | 1 | 12SU<img src="../../img/su.png" id="spr"/>                                            | Randomly emits electric arc
 | Large Surge Wall<img src="../../img/wall-su-l.png" id="spr"/>       | 2760 | 2 | 48SU<img src="../../img/su.png" id="spr"/>                                            | Randomly emits electric arc
 
-## Copper Walls<img src="../../img/wall-cp.png" id="spr"/>
+## Copper Walls<img src="../../img/wall-cp.png" id="spr"/><img src="../../img/wall-cp-l.png" id="spr"/>
 
 The most basic walls of them all. The 1x1 variant is made from 12 Copper, while the large variant is made of 48. They have a total HP of 240 and 960 respectively. Very weak, very cheap.
 
 ### History 
 
-These walls were added in v4 as a replacement for 3.5's Stone Walls.
+These walls were added in v4, probably as a replacement for 3.5's Stone Walls.
+
+## Dense Alloy Walls<img src="../../img/wall-da.png" id="spr"/><img src="../../img/wall-da-l.png" id="spr"/>
+
+A little stronger than Copper Walls, and of course, slightly more expensive, costing 12 Dense Alloy for the 1x1, and 48 Dense Alloy for the Large variant. They have a total HP of 330 and 1320 respectively. 
+
+### History
+
+Dense Alloy Walls were added in v4, most likely as a replacement to 3.5's Iron Walls.
