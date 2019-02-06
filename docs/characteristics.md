@@ -36,7 +36,7 @@ Oil<img src="../img/oil.png" id="spr"> is the most and only explosive liquid. If
 
 **Tip:** Keep explosive material protected and separate from your Core or any exposed lines, unless it is needed. It is highly explosive and when triggered, will deal damage to surrounding blocks as well. Read the previous tip, too.
 
-## Fluxiness [Items]
+## Fluxiness [Items] [ DEPRECATED - [anuken/mindustry::e6a39a82](https://github.com/Anuken/Mindustry/commit/e6a39a8255dea5bab0c042713dd0bd7b684795d4) ]
 
 Fluxiness is the measure of the ability of an item to be used as flux. Flux is essentially a 'filler' system, substituting the regular resources with masses of cheaper ones. 
 
