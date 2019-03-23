@@ -32,3 +32,29 @@ Water is blue and dark blue (for 'deep water'), and naturally appears in bodies 
 Water has existed since the beginning of Mindustry. As of Build 64, it no longer serves the purpose of cooling the Thorium Reactor; Cryofluid now being its only coolant.
 
 <hr>
+
+## Lava <img id="ind" src="../img/lava.png">
+
+Lava is the other natural liquid in Mindustry. It is also the hottest.
+
+**Obtainable with:** Thermal Pump, Melter
+
+### Basic Information
+
+Lava is the second naturally occurring liquid. However, since it is very hot, it is also one of the hardest to obtain.
+
+It requires the Thermal Pump, which is the only drill capable of handling its high temperature. The only other way to get it is using the Melter, which uses large amounts of electricity to melt stone. Either way, it is not easily available in the easrly stages of the game.
+
+Like Water, it can also be used as ammunition for the Wave turret. When fed Lava, the Wave will act as a sort of flamethrower, and also produce puddles on the ground. Both the spray and the puddles can burn enemies and slow them down, soaking them with Lava. Because of that ability, Waves which are fed Lava are useful for slowing down and sustaining damage on swarms of enemies, which makes the job of other turrets easier and more effective. 
+
+Also like Water, Lava can be used to produce electricity. 
+
+### Characteristics
+
+Water is blue and dark blue (for 'deep water'), and naturally appears in bodies as small as puddles or as big as oceans.
+
+### History
+
+Water has existed since the beginning of Mindustry. As of Build 64, it no longer serves the purpose of cooling the Thorium Reactor; Cryofluid now being its only coolant.
+
+<hr>
