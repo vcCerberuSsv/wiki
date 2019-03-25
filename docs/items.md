@@ -14,16 +14,13 @@ Items are one of the integral parts of Mindustry. They can serve as fuel, ammo, 
 | **[CP]** Copper <img id="spr" src="../img/cp.png">        | NMBE                   | .6  | 1 |    |    |    |    | #d99d73 |
 | **[LE]** Lead <img id="spr" src="../img/le.png">          | NMBE                   | .9  | 1 |    |    |    |    | #8c7fa9 |
 | **[CO]** Coal <img id="spr" src="../img/co.png">          | NM                     | 3   | 2 |    | .5 | .2 |    | #272727 |
-| **[SA]** Sand <img id="spr" src="../img/sa.png">          | NM                     | 3   |   |    |    |    | .5 | #e3d39e |
-| **[ST]** Stone <img id="spr" src="../img/st.png">         | NM                     | 3   | 3 |    |    |    |    | #777777 | 
+| **[SA]** Sand <img id="spr" src="../img/sa.png">          | NM                     | 3   |   |    |    |    | .5 | #e3d39e | 
 | **[TI]** Titanium <img id="spr" src="../img/ti.png">      | NMB                    | 1.1 | 3 |    |    |    |    | #8da1e3 |
 | **[TH]** Thorium <img id="spr" src="../img/th.png">       | NMB                    | 1.4 | 4 | .5 |    | .1 |    | #f9a3c7 |
-| **[DA]** Dense Alloy <img id="spr" src="../img/da.png">   | &nbsp;&nbsp;&nbsp; MBE | 1.2 |   |    |    |    |    | #b2c6d2 |
 | **[SI]** Silicon <img id="spr" src="../img/si.png">       | &nbsp;&nbsp;&nbsp; MBE | .9  |   |    |    |    |    | #53565c |
 | **[PL]** Plastanium <img id="spr" src="../img/pl.png">    | &nbsp;&nbsp;&nbsp; MB  | 1.6 |   |    | .1 | .1 |    | #cbd97f |
 | **[PF]** Phase Fabric <img id="spr" src="../img/pf.png">  | &nbsp;&nbsp;&nbsp; MB  | 1.5 |   | .3 |    |    | .9 | #f4ba6e |
 | **[SU]** Surge Alloy <img id="spr" src="../img/su.png">   | &nbsp;&nbsp;&nbsp; MB  | 3   |   |    |    |    |    | #f3e979 |
-| **[BM]** Biomatter <img id="spr" src="../img/bm.png">     | &nbsp;&nbsp;&nbsp; M   | 3   |   |    | .4 |    | .3 | #648b55 |
 | **[BC]** Blast Compound <img id="spr" src="../img/bc.png">| &nbsp;&nbsp;&nbsp; M   | 3   |   |    | .2 | .6 |    | #ff795e |
 | **[PY]** Pyratite <img id="spr" src="../img/py.png">      | &nbsp;&nbsp;&nbsp; M   | 3   |   |    | .7 | .2 |    | #ffaa5f |
 
@@ -167,7 +164,9 @@ Thorium was added in 4.0, as a replacement to <3.5's Uranium. They and their rea
 
 <hr>
 
-## Dense Alloy 
+## Dense Alloy [ DEPRECATED ] 
+
+**Replaced with: Metaglass**
 
 A strong material, suitable for walls, mechs, blocks, and even half-decent ammo.
 
@@ -187,7 +186,9 @@ These may look like stalks of wheat but please don't put them in your mouth. The
 
 Having this electrifying Kraft Singles American Cheese means you've played through enough that you can contribute to discussions on the Discord. Other than walls and ammo, though, they're pretty plain.
 
-## Biomatter
+## Biomatter [ DEPRECATED ]
+
+**Replaced with: Spore Pods**
 
 Somehow this saturated goosecrap can be burned.
 
