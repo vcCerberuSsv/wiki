@@ -51,7 +51,7 @@ Also like Water, Lava can be used to produce electricity.
 
 ### Characteristics
 
-Water is blue and dark blue (for 'deep water'), and naturally appears in bodies as small as puddles or as big as oceans.
+Lava appears as a red liquid.
 
 ### History
 
