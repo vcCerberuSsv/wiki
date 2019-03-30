@@ -1,28 +1,31 @@
 # Items
 
-Items are one of the integral parts of Mindustry. They can serve as fuel, ammo, or building material.
+Items are one of the integral parts of Mindustry. They can serve as ingredients, fuel, ammo, or building material.
 
 **Flags:**
 
-* N - Naturally generated
-* M - Man-made, e.g. with a Production or Crafting block
-* E - Can be obtained from destroying an enemy
 * B - Is used as a building material
+* C - Crafted
+* L - Launchable
+* M - Mineable / Naturally occurs
 
 | Name | Flags | Cost | Hardness | Rad. | Flam. | Expl. | Flux. | Color |
 |------|-------|:----:|:--------:|:----:|:-----:|:-----:|:-----:|-------|
-| **[CP]** Copper <img id="spr" src="../img/cp.png">        | NMBE                   | .6  | 1 |    |    |    |    | #d99d73 |
-| **[LE]** Lead <img id="spr" src="../img/le.png">          | NMBE                   | .9  | 1 |    |    |    |    | #8c7fa9 |
-| **[CO]** Coal <img id="spr" src="../img/co.png">          | NM                     | 3   | 2 |    | .5 | .2 |    | #272727 |
-| **[SA]** Sand <img id="spr" src="../img/sa.png">          | NM                     | 3   |   |    |    |    | .5 | #e3d39e | 
-| **[TI]** Titanium <img id="spr" src="../img/ti.png">      | NMB                    | 1.1 | 3 |    |    |    |    | #8da1e3 |
-| **[TH]** Thorium <img id="spr" src="../img/th.png">       | NMB                    | 1.4 | 4 | .5 |    | .1 |    | #f9a3c7 |
-| **[SI]** Silicon <img id="spr" src="../img/si.png">       | &nbsp;&nbsp;&nbsp; MBE | .9  |   |    |    |    |    | #53565c |
-| **[PL]** Plastanium <img id="spr" src="../img/pl.png">    | &nbsp;&nbsp;&nbsp; MB  | 1.6 |   |    | .1 | .1 |    | #cbd97f |
-| **[PF]** Phase Fabric <img id="spr" src="../img/pf.png">  | &nbsp;&nbsp;&nbsp; MB  | 1.5 |   | .3 |    |    | .9 | #f4ba6e |
-| **[SU]** Surge Alloy <img id="spr" src="../img/su.png">   | &nbsp;&nbsp;&nbsp; MB  | 3   |   |    |    |    |    | #f3e979 |
-| **[BC]** Blast Compound <img id="spr" src="../img/bc.png">| &nbsp;&nbsp;&nbsp; M   | 3   |   |    | .2 | .6 |    | #ff795e |
-| **[PY]** Pyratite <img id="spr" src="../img/py.png">      | &nbsp;&nbsp;&nbsp; M   | 3   |   |    | .7 | .2 |    | #ffaa5f |
+| **[CP]** Copper <img id="spr" src="../img/cp.png">        | <span font-family="monospace">B LM</span>            | .6  | 1 |    |    |    |    | #d99d73 |
+| **[LE]** Lead <img id="spr" src="../img/le.png">          | B LM            | .9  | 1 |    |    |    |    | #8c7fa9 |
+| **[CO]** Coal <img id="spr" src="../img/co.png">          | &nbsp; &nbsp; M | 3   | 2 |    | .5 | .2 |    | #272727 |
+| **[SA]** Sand <img id="spr" src="../img/sa.png">          | &nbsp; &nbsp; M | 3   |   |    |    |    | .5 | #e3d39e | 
+| **[TI]** Titanium <img id="spr" src="../img/ti.png">      | B LM            | 1.1 | 3 |    |    |    |    | #8da1e3 |
+| **[TH]** Thorium <img id="spr" src="../img/th.png">       | B LM            | 1.4 | 4 | .5 |    | .1 |    | #f9a3c7 |
+| **[SP]** Spore Pods                                       | &nbsp; &nbsp; M | ?   | ? | ?  | ?  | ?  | ?  | ?
+| **[GR]** Graphite                                         | BCL             | ?   | ? | ?  | ?  | ?  | ?  | ?
+| **[MG]** Metaglass                                        | BCL             | ?   | ? | ?  | ?  | ?  | ?  | ?`
+| **[SI]** Silicon <img id="spr" src="../img/si.png">       | BCL             | .9  |   |    |    |    |    | #53565c |
+| **[PL]** Plastanium <img id="spr" src="../img/pl.png">    | BCL             | 1.6 |   |    | .1 | .1 |    | #cbd97f |
+| **[PF]** Phase Fabric <img id="spr" src="../img/pf.png">  | BCL             | 1.5 |   | .3 |    |    | .9 | #f4ba6e |
+| **[SU]** Surge Alloy <img id="spr" src="../img/su.png">   | BCL             | 3   |   |    |    |    |    | #f3e979 |
+| **[BC]** Blast Compound <img id="spr" src="../img/bc.png">|  C              | 3   |   |    | .2 | .6 |    | #ff795e |
+| **[PY]** Pyratite <img id="spr" src="../img/py.png">      |  C              | 3   |   |    | .7 | .2 |    | #ffaa5f |
 
 <hr>
 
