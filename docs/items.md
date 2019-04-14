@@ -1,31 +1,38 @@
 # Items
 
+<!-- please turn OFF line wrapping to make the mess more bearable. VSCode: Alt+Z-->
+
 Items are one of the integral parts of Mindustry. They can serve as ingredients, fuel, ammo, or building material.
 
 **Flags:**
 
-* B - Is used as a building material
-* C - Crafted
-* L - Launchable
-* M - Mineable / Naturally occurs
+* <img id="spr" src="../img/block.png"> - Is used as a building material
+* <img id="spr" src="../img/factory.png"> - Crafted
+* <img id="spr" src="../img/launch.png"> - Launchable
+* <img id="spr" src="../img/drill.png"> - Mineable / Naturally occurs
 
-| Name | Flags | Cost | Hardness | Rad. | Flam. | Expl. | Flux. | Color |
-|------|-------|:----:|:--------:|:----:|:-----:|:-----:|:-----:|-------|
-| **[CP]** Copper <img id="spr" src="../img/cp.png">        | <span font-family="monospace">B LM</span>            | .6  | 1 |    |    |    |    | #d99d73 |
-| **[LE]** Lead <img id="spr" src="../img/le.png">          | B LM            | .9  | 1 |    |    |    |    | #8c7fa9 |
-| **[CO]** Coal <img id="spr" src="../img/co.png">          | &nbsp; &nbsp; M | 3   | 2 |    | .5 | .2 |    | #272727 |
-| **[SA]** Sand <img id="spr" src="../img/sa.png">          | &nbsp; &nbsp; M | 3   |   |    |    |    | .5 | #e3d39e | 
-| **[TI]** Titanium <img id="spr" src="../img/ti.png">      | B LM            | 1.1 | 3 |    |    |    |    | #8da1e3 |
-| **[TH]** Thorium <img id="spr" src="../img/th.png">       | B LM            | 1.4 | 4 | .5 |    | .1 |    | #f9a3c7 |
-| **[SP]** Spore Pods                                       | &nbsp; &nbsp; M | ?   | ? | ?  | ?  | ?  | ?  | ?
-| **[GR]** Graphite                                         | BCL             | ?   | ? | ?  | ?  | ?  | ?  | ?
-| **[MG]** Metaglass                                        | BCL             | ?   | ? | ?  | ?  | ?  | ?  | ?`
-| **[SI]** Silicon <img id="spr" src="../img/si.png">       | BCL             | .9  |   |    |    |    |    | #53565c |
-| **[PL]** Plastanium <img id="spr" src="../img/pl.png">    | BCL             | 1.6 |   |    | .1 | .1 |    | #cbd97f |
-| **[PF]** Phase Fabric <img id="spr" src="../img/pf.png">  | BCL             | 1.5 |   | .3 |    |    | .9 | #f4ba6e |
-| **[SU]** Surge Alloy <img id="spr" src="../img/su.png">   | BCL             | 3   |   |    |    |    |    | #f3e979 |
-| **[BC]** Blast Compound <img id="spr" src="../img/bc.png">|  C              | 3   |   |    | .2 | .6 |    | #ff795e |
-| **[PY]** Pyratite <img id="spr" src="../img/py.png">      |  C              | 3   |   |    | .7 | .2 |    | #ffaa5f |
+<!-- scroll to the right to see/change the rest of the attributes. the image tags are for flags. -->
+
+| Name                                                      | Flags                                                                                                                                                 | Cost | Hardness | Rad. | Flam. | Expl. | Flux. | Color   |
+|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|:----:|:--------:|:----:|:-----:|:-----:|:-----:|---------|
+| **[CP]** Copper <img id="spr" src="../img/cp.png">        | <img id="spr" src="../img/block.png"><img id="spr" src="../img/blank.png"><img id="spr" src="../img/launch.png"><img id="spr" src="../img/drill.png"> | .6   | 1        |      |       |       |       | #d99d73
+| **[LE]** Lead <img id="spr" src="../img/le.png">          | <img id="spr" src="../img/block.png"><img id="spr" src="../img/blank.png"><img id="spr" src="../img/launch.png"><img id="spr" src="../img/drill.png"> | .9   | 1        |      |       |       |       | #8c7fa9
+| **[MG]** Metaglass                                        | <img id="spr" src="../img/block.png"><img id="spr" src="../img/factory.png"><img id="spr" src="../img/launch.png">                                    | ?    | ?        | ?    | ?     | ?     | ?     | ?
+| **[GR]** Graphite                                         | <img id="spr" src="../img/block.png"><img id="spr" src="../img/factory.png"><img id="spr" src="../img/launch.png">                                    | ?    | ?        | ?    | ?     | ?     | ?     | ?
+| **[CO]** Coal <img id="spr" src="../img/co.png">          | <img id="spr" src="../img/blank.png"><img id="spr" src="../img/blank.png"><img id="spr" src="../img/blank.png"><img id="spr" src="../img/drill.png">  | 3    | 2        |      | .5    | .2    |       | #272727
+| **[TI]** Titanium <img id="spr" src="../img/ti.png">      | <img id="spr" src="../img/block.png"><img id="spr" src="../img/blank.png"><img id="spr" src="../img/launch.png"><img id="spr" src="../img/drill.png"> | 1.1  | 3        |      |       |       |       | #8da1e3
+| **[TH]** Thorium <img id="spr" src="../img/th.png">       | <img id="spr" src="../img/block.png"><img id="spr" src="../img/blank.png"><img id="spr" src="../img/launch.png"><img id="spr" src="../img/drill.png"> | 1.4  | 4        | .5   |       | .1    |       | #f9a3c7
+| **[SC]** Scrap                                            | <img id="spr" src="../img/blank.png"><img id="spr" src="../img/blank.png"><img id="spr" src="../img/blank.png"><img id="spr" src="../img/drill.png">  | ?    | ?        | ?    | ?     | ?     | ?     | ?
+| **[SI]** Silicon <img id="spr" src="../img/si.png">       | <img id="spr" src="../img/block.png"><img id="spr" src="../img/factory.png"><img id="spr" src="../img/launch.png">                                    | .9   |          |      |       |       |       | #53565c
+| **[PL]** Plastanium <img id="spr" src="../img/pl.png">    | <img id="spr" src="../img/block.png"><img id="spr" src="../img/factory.png"><img id="spr" src="../img/launch.png">                                    | 1.6  |          |      | .1    | .1    |       | #cbd97f
+| **[PF]** Phase Fabric <img id="spr" src="../img/pf.png">  | <img id="spr" src="../img/block.png"><img id="spr" src="../img/factory.png"><img id="spr" src="../img/launch.png">                                    | 1.5  |          | .3   |       |       | .9    | #f4ba6e
+| **[SU]** Surge Alloy <img id="spr" src="../img/su.png">   | <img id="spr" src="../img/block.png"><img id="spr" src="../img/factory.png"><img id="spr" src="../img/launch.png">                                    | 3    |          |      |       |       |       | #f3e979
+| **[SP]** Spore Pods                                       | <img id="spr" src="../img/blank.png"><img id="spr" src="../img/blank.png"><img id="spr" src="../img/blank.png"><img id="spr" src="../img/drill.png">  | ?    | ?        | ?    | ?     | ?     | ?     | ?
+| **[SA]** Sand <img id="spr" src="../img/sa.png">          | <img id="spr" src="../img/blank.png"><img id="spr" src="../img/blank.png"><img id="spr" src="../img/blank.png"><img id="spr" src="../img/drill.png">  | 3    |          |      |       |       | .5    | #e3d39e
+| **[BC]** Blast Compound <img id="spr" src="../img/bc.png">| <img id="spr" src="../img/blank.png"><img id="spr" src="../img/factory.png">                                                                          | 3    |          |      | .2    | .6    |       | #ff795e
+| **[PY]** Pyratite <img id="spr" src="../img/py.png">      | <img id="spr" src="../img/blank.png"><img id="spr" src="../img/factory.png">                                                                          | 3    |          |      | .7    | .2    |       | #ffaa5f
+
+**Table is in the order of how it appears in the game.*
 
 <hr>
 
