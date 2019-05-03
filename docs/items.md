@@ -100,19 +100,17 @@ Coal has existed since the first release of Mindustry.
 
 ## Sand <img id="spr" src="../img/sa.png">
 
-Used to make Silicon, and as flux.
+Used to make Silicon and Phase Fabric.
 
-**Obtainable with:** All drills, Separator, Centrifuge
+**Obtainable with:** All drills, Pulverizer
 
 ### Basic Information
 
-Sand is the material you need to step up your game. When used strategically with Arc Smelters, they can greatly improve the efficiency of Dense Alloy production, and conserve resources. It also the second ingredient for Silicon.
-
-Strategically speaking, Sand, again, is a must-have. Many players like to have large amounts of sand harvested and stored, usually passively (using passive drills). Therefore, they can have an always-ready supply of flux. 
+Sand is primarily used as an ingredient of Silicon and Phase Fabric. It is normally very abundant, but in the case that it is not, it can be ground from Scrap using the Pulverizer.
 
 ### Characteristics
 
-Sand is light-yellow colored, and looks like... well, a pile of sand. It appears on the ground as terrain. 
+Sand is light-yellow colored, and looks like... well, a pile of sand. It appears on the ground as terrain, both as its own color and gray-ish like stone. It is distinguishable, though, by its somewhat thin diagonal streaks.
 
 ### History
 
