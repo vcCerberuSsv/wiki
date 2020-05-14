@@ -23,7 +23,7 @@
 |Shots|2    |
 |Shots/Second|3.33    |
 |Targets Air|Yes  |
-|Targets Ground|No  |
+|Targets Ground|Yes  |
 |Ammo|![item-scrap-medium](/wiki/images/item-scrap-medium.png) Scrap <br> • **3** damage <br> • **22** area dmg ~** 3.0** tiles <br> • **5**x ammo multiplier <br> • **0.5**x fire rate <br>![item-lead-medium](/wiki/images/item-lead-medium.png) Lead <br> • **3** damage <br> • **27** area dmg ~** 1.9** tiles <br> • **4**x ammo multiplier <br>![item-metaglass-medium](/wiki/images/item-metaglass-medium.png) Metaglass <br> • **3** damage <br> • **30** area dmg ~** 3.3** tiles <br> • **5**x ammo multiplier <br> • **0.8**x fire rate <br> • **frag** <br> |
 
 |Optional Enhancements||
